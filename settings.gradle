@@ -1,0 +1,3 @@
+rootProject.name = 'freelancehub'
+include 'api-gateway'
+include 'user-service'

@@ -1,0 +1,29 @@
+### IntelliJ IDEA ###
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/httpRequests/
+out/
+*.iml
+*.iws
+*.ipr
+
+### Java ###
+*.class
+*.jar
+*.war
+*.zip
+*.tar.gz
+*.log
+hs_err_pid*
+*.hprof
+
+### Gradle ###
+.gradle/
+**/build/
+!src/**/build/
+
+!gradle-wrapper.jar
+!gradle-wrapper.properties
